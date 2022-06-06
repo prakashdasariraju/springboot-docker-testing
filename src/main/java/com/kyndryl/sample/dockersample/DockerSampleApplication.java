@@ -8,7 +8,7 @@ public class DockerSampleApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DockerSampleApplication.class, args);
-		System.out.println("Success");
+// 		System.out.println("Success");
 	}
 
 }
